@@ -12,5 +12,4 @@ Funcionalidades
 Objetivo
 Treinar conceitos fundamentais como entrada de dados, operações matemáticas e estruturas condicionais.
 
-Este é um dos meus primeiros projetos em Python e faz parte da minha evolução como desenvolvedor. 🚀
-Primeiro de muitos.
+Este é um dos meus primeiros projetos em Python e faz parte da minha evolução como desenvolvedor, primeiro de muitos.
